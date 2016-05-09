@@ -1,5 +1,6 @@
 Minimal Spark Streaming project
 ===
+This project was built upon Spark 1.3
 
 How To Run
 ---
